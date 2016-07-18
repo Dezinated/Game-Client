@@ -5,7 +5,7 @@ import math.Vector3f;
 
 public class MyPlayer extends Player {
 
-	//Change by weejay
+	//Change by weejaya
 	public void update(){
 		if(GameHandler.connection != null) {
 			//System.out.println("PLAYER "+username+" @ X: "+location.x + " Y: " + location.y);
